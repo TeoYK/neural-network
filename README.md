@@ -1,4 +1,4 @@
-# NeuralNetwork
+# neural-network
 
 ## Description
 
